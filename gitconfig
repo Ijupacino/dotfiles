@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ali.osmany@comtravo.com
+	name = Ali Osmany
